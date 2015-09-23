@@ -1,0 +1,24 @@
+{
+  "name": "hapi-auth-passthrough",
+  "version": "1.0.0",
+  "description": "Passthrough authentication plugin with dummy scopes",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "lab -r console -t 100 -a code -L"
+  },
+  "keywords": [
+    "hapi",
+    "plugin",
+    "passthrough",
+    "auth",
+    "dummy",
+    "scopes"
+  ],
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "code": "^1.5.0",
+    "hapi": "^10.0.1",
+    "lab": "^5.18.1"
+  }
+}

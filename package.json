@@ -20,5 +20,21 @@
     "code": "^1.5.0",
     "hapi": "^10.0.1",
     "lab": "^5.18.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "code": "^1.5.0",
+    "lab": "^5.18.1",
+    "hapi": "^10.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diorahman/hapi-auth-passthrough.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diorahman/hapi-auth-passthrough/issues"
+  },
+  "homepage": "https://github.com/diorahman/hapi-auth-passthrough#readme"
 }

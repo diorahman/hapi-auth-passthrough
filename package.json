@@ -1,6 +1,6 @@
 {
   "name": "hapi-auth-passthrough",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passthrough authentication plugin with dummy scopes",
   "main": "lib/index.js",
   "scripts": {

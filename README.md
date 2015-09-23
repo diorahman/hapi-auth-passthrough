@@ -1,5 +1,7 @@
 ### hapi-auth-passthrough
 
+[![Build Status](https://travis-ci.org/diorahman/hapi-auth-passthrough.svg?branch=master)](https://travis-ci.org/diorahman/hapi-auth-passthrough)
+
 Hapi passthrough authentication plugin.
 
 #### Passthrough authentication

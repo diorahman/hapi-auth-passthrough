@@ -24,11 +24,6 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "code": "^1.5.0",
-    "lab": "^5.18.1",
-    "hapi": "^10.0.1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/diorahman/hapi-auth-passthrough.git"
